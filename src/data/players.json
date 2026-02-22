@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "team_id": 1,
+    "name": "Yassine Rami",
+    "position": "Défenseur",
+    "goals": 2,
+    "assists": 0
+  },
+  {
+    "id": 2,
+    "team_id": 2,
+    "name": "Mohamed Rayhi",
+    "position": "Attaquant",
+    "goals": 3,
+    "assists": 4
+  },
+  {
+    "id": 3,
+    "team_id": 3,
+    "name": "Achraf Dari",
+    "position": "Défenseur",
+    "goals": 1,
+    "assists": 2
+  },
+  {
+    "id": 4,
+    "team_id": 1,
+    "name": "Ilias Akhomach",
+    "position": "Milieu",
+    "goals": 4,
+    "assists": 3
+  },
+  {
+    "id": 5,
+    "team_id": 2,
+    "name": "Yahia Attiyat Allah",
+    "position": "Défenseur",
+    "goals": 0,
+    "assists": 5
+  },
+  {
+    "id": 6,
+    "team_id": 3,
+    "name": "Zakaria Aboukhlal",
+    "position": "Attaquant",
+    "goals": 5,
+    "assists": 2
+  },
+  {
+    "id": 7,
+    "team_id": 4,
+    "name": "Walid El Karti",
+    "position": "Milieu",
+    "goals": 2,
+    "assists": 1
+  }
+]

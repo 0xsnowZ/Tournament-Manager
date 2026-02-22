@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "HASSANIA UNION SPORT D'AGADIR",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/ar/2/2f/Hassania-Agadir-Logo-2013.png?20170616201949",
+    "coach": "Abdelhadi Sektioui",
+    "fifaRanking": 25
+  },
+  {
+    "id": 2,
+    "name": "Wydad Athletic Club",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/9/96/Logo_Wydad_Athletic_Club.png",
+    "coach": "Rulani Mokwena",
+    "fifaRanking": 18
+  },
+  {
+    "id": 3,
+    "name": "Raja Club Athletic",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Raja_CA_logo.png",
+    "coach": "Sá Pinto",
+    "fifaRanking": 20
+  },
+  {
+    "id": 4,
+    "name": "FUS Rabat",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/FUS_Rabat_%28logo%29.svg/langfr-250px-FUS_Rabat_%28logo%29.svg.png",
+    "coach": "Jamal Sellami",
+    "fifaRanking": 30
+  }
+]
