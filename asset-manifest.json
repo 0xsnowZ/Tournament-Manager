@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tournament-Manager/static/css/main.fad68324.css",
+    "main.js": "/Tournament-Manager/static/js/main.2c833c8a.js",
+    "index.html": "/Tournament-Manager/index.html",
+    "main.fad68324.css.map": "/Tournament-Manager/static/css/main.fad68324.css.map",
+    "main.2c833c8a.js.map": "/Tournament-Manager/static/js/main.2c833c8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad68324.css",
+    "static/js/main.2c833c8a.js"
+  ]
+}
